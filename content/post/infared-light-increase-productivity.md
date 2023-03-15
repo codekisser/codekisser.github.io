@@ -15,7 +15,7 @@ The anomalous properties of infared light has been widely studied from being abl
 
 ## Headgear
 
-Very simple setup - I got an [infared flashlight from Amazon](https://www.amazon.com/DARKBEAM-Light-Rechargeable-Illuminator-Observation/dp/B0BL7LH3DC/ref=sr_1_1_sspa?keywords=infrared+flashlight&qid=1678688660&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyOUpBR1lIMElKRVNRJmVuY3J5cHRlZElkPUEwNjUyNjk2MjdXVFNLTkJVNDMxQiZlbmNyeXB0ZWRBZElkPUEwODMxMzUwWlNMUVVJMkY1UFA4JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) and some straps to create a headband which I used to fasten the flashlight to my head in a way that the flashlight shines directly on my forehead.
+I got an [infared flashlight from Amazon](https://www.amazon.com/DARKBEAM-Light-Rechargeable-Illuminator-Observation/dp/B0BL7LH3DC/ref=sr_1_1_sspa?keywords=infrared+flashlight&qid=1678688660&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyOUpBR1lIMElKRVNRJmVuY3J5cHRlZElkPUEwNjUyNjk2MjdXVFNLTkJVNDMxQiZlbmNyeXB0ZWRBZElkPUEwODMxMzUwWlNMUVVJMkY1UFA4JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) and some straps to create a headband which I used to fasten the flashlight to my head in a way that the flashlight shines directly on my forehead.
 
 ![A diagram showing the headgear setup](/images/infared-light-setup.png)
 
@@ -53,4 +53,4 @@ I highly implore people to wait for larger experiments before making any proper 
 
 1. [Shining light on the head: Photobiomodulation for brain disorders](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5066074/)
 2. [Transcranial near-infrared light in treatment of neurodegenerative diseases](https://www.frontiersin.org/articles/10.3389/fphar.2022.965788/full)
-3. [A Controlled Trial to Determine the Efficacy of Red and Near-Infrared Light Treatment in Patient Satisfaction, Reduction of Fine Lines, Wrinkles, Skin Roughness, and Intradermal Collagen Density Increase](ncbi.nlm.nih.gov/pmc/articles/PMC3926176/)
+3. [A Controlled Trial to Determine the Efficacy of Red and Near-Infrared Light Treatment in Patient Satisfaction, Reduction of Fine Lines, Wrinkles, Skin Roughness, and Intradermal Collagen Density Increase](https://ncbi.nlm.nih.gov/pmc/articles/PMC3926176/)
