@@ -46,11 +46,6 @@ icon = "fa-brands fa-github"
 title = "GitHub"
 url = "https://github.com/codekisser"
 
-[[params.socialLinks]]
-icon = "fa-solid fa-envelope"
-title = "Email"
-url = "mailto:example@example.com"
-
 [menu]
 
   [[menu.main]]
