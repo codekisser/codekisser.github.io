@@ -6,7 +6,9 @@ date: 2023-03-16T03:13:26Z
 draft: true
 ---
 
-A collection on how various internet celebrities and other individuals have been doxed or hacked. I created this so that I and other people can learn from their mistakes + I couldn’t find a list like this online.
+A collection on how various internet celebrities and other individuals have been doxed or hacked.
+<!--more-->
+I created this so that I and other people can learn from their mistakes + I couldn’t find a list like this online.
 
 Note: I’m not a security expert or anything, nor am I a doxer. I just wanted to document the interesting stuff I found when googling doxing.
 
@@ -52,3 +54,9 @@ Even if you never mention your political leaning online, it can potentially be e
 A man claimed that he was able to locate an Idol by looking at the reflection in her eyes in a selfie [[7](https://www.bbc.com/news/world-asia-50000234)]. He allegedly made that up, and was actually able to track her down using geolocation metadata in the photo [? Random Redditors].
 
 No article mentions what specific social media platform she was posting on, but most reputable social media sites strip images and videos of metadata before publishing them. This has not always been reliable as, for example, Twitter leaked users’ exact geolocation for years [[8](https://www.wired.com/story/twitter-location-data-gps-privacy/)].
+
+## Domain Theft
+
+![Man wearing pantyhose mask](https://media.istockphoto.com/id/469958369/photo/dangerous-man.jpg?s=612x612&w=0&k=20&c=4wsAfucv2ssPpJUPtj_rw6SMJAQKC5Y0zU_MBCGliNw=)
+
+A man disguised with sunglasses and a pantyhose mask showed up to another man's home and robbed him at gunpoint... for his domain URL [[9](https://www.theverge.com/2019/12/9/21003858/instagram-polo-rossi-lorathio-adams-ii-sentenced-14-years-domain-name-state-snaps)]. How the home address was uncovered, I don't know. If I had to guess, they probably used the WHOIS registry.
