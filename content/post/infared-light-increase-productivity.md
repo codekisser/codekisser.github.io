@@ -1,21 +1,21 @@
 +++
 author = "Code Kisser"
-title = "Using Infared Light to Increase My Coding Productivity"
+title = "Using Infrared Light to Increase My Coding Productivity"
 date = "2023-02-12"
-description = "Talking about my experiences using infared light to increase my brain functions."
+description = "Talking about my experiences using infrared light to increase my brain functions."
 +++
 
-As a programmer, I've always been on the lookout for new ways to increase my productivity and brain power. Recently, I've been experimenting with the use of an infared flashlight strapped to my head to help improve my performance while coding.
+As a programmer, I've always been on the lookout for new ways to increase my productivity and brain power. Recently, I've been experimenting with the use of an infrared flashlight strapped to my head to help improve my performance while coding.
 <!--more-->
 
 ![A man wearing an experimental light apparatus on his head](https://www.science.org/do/10.1126/science.abe8438/abs/ca_0918NID_Red_Light_Technology_online.jpg)
 [Image source](https://www.science.org/content/article/trials-begin-new-weapon-against-parkinson-s-light)
 
-The anomalous properties of infared light has been widely studied from being able to stimulate healing in degenerated brain tissues [1] [2] to even being able to de-age skin [3]. I am mostly interested in the first property - its supposed effects on the brain. I aim to investigate how infared light can be used to aleviate fatigue in the brain allowing me to code more.
+The anomalous properties of infared light has been widely studied from being able to stimulate healing in degenerated brain tissues [1] [2] to even being able to de-age skin [3]. I am mostly interested in the first property - its supposed effects on the brain. I aim to investigate how infrared light can be used to alleviate fatigue in the brain allowing me to code more.
 
 ## Headgear
 
-I got an [infared flashlight from Amazon](https://www.amazon.com/DARKBEAM-Light-Rechargeable-Illuminator-Observation/dp/B0BL7LH3DC/ref=sr_1_1_sspa?keywords=infrared+flashlight&qid=1678688660&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyOUpBR1lIMElKRVNRJmVuY3J5cHRlZElkPUEwNjUyNjk2MjdXVFNLTkJVNDMxQiZlbmNyeXB0ZWRBZElkPUEwODMxMzUwWlNMUVVJMkY1UFA4JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) and some straps to create a headband which I used to fasten the flashlight to my head in a way that the flashlight shines directly on my forehead.
+I got an [infrared flashlight from Amazon](https://www.amazon.com/DARKBEAM-Light-Rechargeable-Illuminator-Observation/dp/B0BL7LH3DC/ref=sr_1_1_sspa?keywords=infrared+flashlight&qid=1678688660&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyOUpBR1lIMElKRVNRJmVuY3J5cHRlZElkPUEwNjUyNjk2MjdXVFNLTkJVNDMxQiZlbmNyeXB0ZWRBZElkPUEwODMxMzUwWlNMUVVJMkY1UFA4JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) and some straps to create a headband which I used to fasten the flashlight to my head in a way that the flashlight shines directly on my forehead.
 
 ![A diagram showing the headgear setup](/images/infared-light-setup.png)
 
@@ -45,7 +45,7 @@ Trial 3: Wearing headband without flashlight, recording data over the course of 
 
 ## Conclusion
 
-While the results may be indicitive of an increase in performance not only during infared-light therapy but also after infared-light therapy, I highly doubt the results. The first problem is that I, the creator of the experiment, was the test subject. While I tried to go about my day as normally as possible, there may have been some subconcious bias where I wanted positive results, leading me to be more reluctant to "clock out" during weeks 2 and 3.
+While the results may be indicative of an increase in performance not only during infrared-light therapy but also after infrared-light therapy, I highly doubt the results. The first problem is that I, the creator of the experiment, was the test subject. While I tried to go about my day as normally as possible, there may have been some subconscious bias where I wanted positive results, leading me to be more reluctant to "clock out" during weeks 2 and 3.
 
 I highly implore people to wait for larger experiments before making any proper conclusions. In the meantime, I will continue using IR therapy because it at the very least encourages me to work more, even if there is no proper statistical basis.
 
