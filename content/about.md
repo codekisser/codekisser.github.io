@@ -10,6 +10,6 @@ I enjoy kissing code, or I enjoy applying the KISS principle to my code. It depe
 
 [Link to PGP key](/mypubkey.asc)
 
-Discord: `codekisser#9773`
+Discord: `codekisser#9773` [Discord Server](https://discord.gg/YpuGXUxm6v)
 
 Element: `codekisser:matrix.org`
