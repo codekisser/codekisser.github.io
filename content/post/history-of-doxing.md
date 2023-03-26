@@ -3,7 +3,6 @@ author: "Code Kisser"
 title: "How Internet Celebrities Have Been Doxed"
 description: "A collection of anecdotes on various people who have been doxed and how exactly they got doxed."
 date: 2023-03-16T03:13:26Z
-draft: true
 ---
 
 A collection on how various internet celebrities and other individuals have been doxed or hacked.
@@ -60,3 +59,6 @@ No article mentions what specific social media platform she was posting on, but 
 ![Man wearing pantyhose mask](https://media.istockphoto.com/id/469958369/photo/dangerous-man.jpg?s=612x612&w=0&k=20&c=4wsAfucv2ssPpJUPtj_rw6SMJAQKC5Y0zU_MBCGliNw=)
 
 A man disguised with sunglasses and a pantyhose mask showed up to another man's home and robbed him at gunpoint... for his domain URL [[9](https://www.theverge.com/2019/12/9/21003858/instagram-polo-rossi-lorathio-adams-ii-sentenced-14-years-domain-name-state-snaps)]. How the home address was uncovered, I don't know. If I had to guess, they probably used the WHOIS registry. You are required to give a name, address, phone number, and other personal identification information in order to legally own a domain on the internet. This information can easily be looked up on [who.is](https://who.is/)
+
+
+WIP
