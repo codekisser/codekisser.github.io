@@ -1,0 +1,18 @@
+baseURL = "https://codekisser.com"
+languageCode = "en"
+title = "codekisser"
+theme = "hugo-theme-monochrome"
+defaultContentLanguage = "en"
+enableEmoji = true
+paginate = 5
+
+googleAnalytics = "G-L13KZ2F7LN"
+disqusShortname = "xxx"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
