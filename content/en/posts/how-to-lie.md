@@ -32,6 +32,21 @@ The number one thing you could do to fool people into believing you're credible
 is to use graphs to make an illustration. Graphs are the tools of intelligent
 people, which we want to pretend to be.
 
+In addition, make the graphs as aesthetic as possible. Just like with Apple
+products and Teslas, people will often conflate apparent quality with actual
+quality. With matplotlib, this can easily be done using the seaborn package to
+make your graphs look prettier. With just 2 lines of code, you become 150%
+more credible.
+
+## Limit Access to Data
+
+Do not give people access to the raw data. Only let them see the data after you
+have manipulated it to suit your motivations.
+
+In my case, it was fairly easy to rationalize this due to the personalness of
+private messages. Regarding other forms of data, you can easily use logic such
+as "the need to maintain a competitive advantage" or "national security".
+
 ## Same data, graphed differently
 
 ![](/images/posts/how-to-lie/alt-mw-plot.png)
