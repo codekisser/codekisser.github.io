@@ -12,6 +12,8 @@ learn from their mistakes + I couldn’t find a list like this online.
 Note: I’m not a security expert or anything, nor am I a doxer. I just wanted to
 document the interesting stuff I found when googling doxing.
 
+[Why anonymity is important](https://news.ycombinator.com/item?id=31763782)
+
 ## Boogie2988
 
 According to a blog post boogie wrote shortly after his hack, his accounts were

@@ -10,12 +10,10 @@ I enjoy kissing code.
 
 ## Social Media
 
-{{< icon-group >}}
-    {{< icon name="github" link="https://github.com/codekisser" >}}
-    {{< icon name="tiktok" link="https://tiktok.com/@codekisser" >}}
-    {{< icon name="youtube" link="https://youtube.com/@codekisser" >}}
-    {{< icon name="discord" link="https://discord.gg/YpuGXUxm6v" >}}
-{{< /icon-group >}}
+* [Github](https://github.com/codekisser)
+* [Tiktok](https://tiktok.com/@codekisser)
+* [Youtube](https://youtube.com/@codekisser)
+* [Discord Server](https://discord.gg/YpuGXUxm6v)
 
 ## Contact
 
